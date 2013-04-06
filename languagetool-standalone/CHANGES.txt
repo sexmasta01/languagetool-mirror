@@ -2,6 +2,9 @@ LanguageTool Change Log
 
 2.2-dev (release planned for 2013-06-30)
 
+ -testing svn commits to github, see
+  https://github.com/blog/626-announcing-svn-support - i will remove this myself
+
  -Catalan:
   -improved rules
   -fixed false alarms
